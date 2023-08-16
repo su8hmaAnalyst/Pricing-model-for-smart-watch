@@ -25,3 +25,8 @@ Build a spreadsheet model to find out the selling price of one smartwatch so tha
 2.	Earn at least a 2% profit margin.
   -	(Revenue-cost)/Revenue
 
+# Analysis:
+Refer Excel document for pricing model.
+Refer Word document for complete approach.
+
+
